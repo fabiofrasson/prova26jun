@@ -8,8 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("api")
 public class Prova01junApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Prova01junApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(Prova01junApplication.class, args);
+  }
 }
